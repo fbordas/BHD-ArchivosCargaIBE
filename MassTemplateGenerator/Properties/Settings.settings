@@ -1,0 +1,237 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="MassTemplateGenerator.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="AppFirstRun" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="AppMaxCashValue" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">1000</Value>
+    </Setting>
+    <Setting Name="Nomina_TargetRNG" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Nomina_Beneficiario" Type="System.String" Scope="User">
+      <Value Profile="(Default)">NOMBRE NOMINA</Value>
+    </Setting>
+    <Setting Name="Nomina_RefTrxRNG" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Nomina_RefTrx" Type="System.String" Scope="User">
+      <Value Profile="(Default)">RefTrxN001</Value>
+    </Setting>
+    <Setting Name="Nomina_ValueRNG" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Nomina_Monto" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">100</Value>
+    </Setting>
+    <Setting Name="Nomina_Concepto" Type="System.String" Scope="User">
+      <Value Profile="(Default)">CONCEPTO NOMINA</Value>
+    </Setting>
+    <Setting Name="Nomina_Email" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="EfeCaja_TargetRNG" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="EfeCaja_TipoID" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C</Value>
+    </Setting>
+    <Setting Name="EfeCaja_Beneficiario" Type="System.String" Scope="User">
+      <Value Profile="(Default)">NOMBRE EFECTIVO EN CAJA</Value>
+    </Setting>
+    <Setting Name="EfeCaja_ValueRNG" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="EfeCaja_Monto" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">100</Value>
+    </Setting>
+    <Setting Name="EfeCaja_Concepto" Type="System.String" Scope="User">
+      <Value Profile="(Default)">CONCEPTO EFECTIVO EN CAJA</Value>
+    </Setting>
+    <Setting Name="EfeCaja_Registro" Type="System.String" Scope="User">
+      <Value Profile="(Default)">I</Value>
+    </Setting>
+    <Setting Name="EfeCaja_Email" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="CkAdm_TargetRNG" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="CkAdm_Beneficiario" Type="System.String" Scope="User">
+      <Value Profile="(Default)">NOMBRE CK ADM</Value>
+    </Setting>
+    <Setting Name="CkAdm_ValueRNG" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="CkAdm_Monto" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">100</Value>
+    </Setting>
+    <Setting Name="CkAdm_Descripcion" Type="System.String" Scope="User">
+      <Value Profile="(Default)">DESCRIPCION CK ADM</Value>
+    </Setting>
+    <Setting Name="CkAdm_Sucursal" Type="System.String" Scope="User">
+      <Value Profile="(Default)">01</Value>
+    </Setting>
+    <Setting Name="CkAdm_Email" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="BCCk_AcctRNG" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="BCCk_Cuenta" Type="System.String" Scope="User">
+      <Value Profile="(Default)">80950734261</Value>
+    </Setting>
+    <Setting Name="BCCk_ValueRNG" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="BCCk_Monto" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">100</Value>
+    </Setting>
+    <Setting Name="BCCk_TargetRNG" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="BCCk_Beneficiario" Type="System.String" Scope="User">
+      <Value Profile="(Default)">BENEFICIARIO BLOQ Y CONF CK</Value>
+    </Setting>
+    <Setting Name="BCCk_Concepto" Type="System.String" Scope="User">
+      <Value Profile="(Default)">CONCEPTO BLOQ Y CONF CK</Value>
+    </Setting>
+    <Setting Name="BCCk_Observaciones" Type="System.String" Scope="User">
+      <Value Profile="(Default)">OBSERVACIONES BLOQ Y CONF CHEQUE</Value>
+    </Setting>
+    <Setting Name="TBHD_TargetRNG" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="TBHD_Beneficiario" Type="System.String" Scope="User">
+      <Value Profile="(Default)">BENEFICIARIO TBHDL</Value>
+    </Setting>
+    <Setting Name="TBHD_RefTrxRNG" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="TBHD_RefTrx" Type="System.String" Scope="User">
+      <Value Profile="(Default)">RefTrxBHD1</Value>
+    </Setting>
+    <Setting Name="TBHD_ValueRNG" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="TBHD_Monto" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">100</Value>
+    </Setting>
+    <Setting Name="TBHD_Descripcion" Type="System.String" Scope="User">
+      <Value Profile="(Default)">DESCRIPCION TBHDL</Value>
+    </Setting>
+    <Setting Name="TBHD_TipoCta" Type="System.String" Scope="User">
+      <Value Profile="(Default)">CA</Value>
+    </Setting>
+    <Setting Name="TBHD_Email" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="TBHD_Fax" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="TBHD_RefDebito" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ACH_AcctRNG" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="ACH_NumCta" Type="System.String" Scope="User">
+      <Value Profile="(Default)">782514533</Value>
+    </Setting>
+    <Setting Name="ACH_Banco" Type="System.String" Scope="User">
+      <Value Profile="(Default)">BPD</Value>
+    </Setting>
+    <Setting Name="ACH_TipoCta" Type="System.String" Scope="User">
+      <Value Profile="(Default)">CA</Value>
+    </Setting>
+    <Setting Name="ACH_TargetRNG" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="ACH_Beneficiario" Type="System.String" Scope="User">
+      <Value Profile="(Default)">BENEFICIARIO ACH</Value>
+    </Setting>
+    <Setting Name="ACH_TipoMov" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C</Value>
+    </Setting>
+    <Setting Name="ACH_RefTrxRNG" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="ACH_RefTrx" Type="System.String" Scope="User">
+      <Value Profile="(Default)">RefTrxACH1</Value>
+    </Setting>
+    <Setting Name="ACH_ValueRNG" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="ACH_Monto" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">100</Value>
+    </Setting>
+    <Setting Name="ACH_Descripcion" Type="System.String" Scope="User">
+      <Value Profile="(Default)">DESCRIPCION ACH</Value>
+    </Setting>
+    <Setting Name="ACH_Email" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="ACH_Fax" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="LBTR_AcctRNG" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="LBTR_NumCta" Type="System.String" Scope="User">
+      <Value Profile="(Default)">782514533</Value>
+    </Setting>
+    <Setting Name="LBTR_Banco" Type="System.String" Scope="User">
+      <Value Profile="(Default)">BPDODOSXXXX</Value>
+    </Setting>
+    <Setting Name="LBTR_TipoCta" Type="System.String" Scope="User">
+      <Value Profile="(Default)">CA</Value>
+    </Setting>
+    <Setting Name="LBTR_Beneficiario" Type="System.String" Scope="User">
+      <Value Profile="(Default)">BENEFICIARIO LBTR</Value>
+    </Setting>
+    <Setting Name="LBTR_TipoMov" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C</Value>
+    </Setting>
+    <Setting Name="LBTR_RefTrxRNG" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="LBTR_RefTrx" Type="System.String" Scope="User">
+      <Value Profile="(Default)">RefTrxBC01</Value>
+    </Setting>
+    <Setting Name="LBTR_ValueRNG" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="LBTR_Monto" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">100</Value>
+    </Setting>
+    <Setting Name="LBTR_Descripcion" Type="System.String" Scope="User">
+      <Value Profile="(Default)">DESCRIPCION LBTR</Value>
+    </Setting>
+    <Setting Name="LBTR_Email" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="LBTR_Fax" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="LBTR_TipoID" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C</Value>
+    </Setting>
+    <Setting Name="LBTR_TargetRNG" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Nomina_Cuenta" Type="System.String" Scope="User">
+      <Value Profile="(Default)">27805051883</Value>
+    </Setting>
+    <Setting Name="EfeCaja_ID" Type="System.String" Scope="User">
+      <Value Profile="(Default)">25870663238</Value>
+    </Setting>
+    <Setting Name="TBHD_NumCta" Type="System.String" Scope="User">
+      <Value Profile="(Default)">02416278042</Value>
+    </Setting>
+    <Setting Name="LBTR_ID" Type="System.String" Scope="User">
+      <Value Profile="(Default)">17159545790</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
